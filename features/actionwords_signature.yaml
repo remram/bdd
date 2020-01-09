@@ -1,0 +1,11 @@
+---
+- name: Select book
+  uid: 6562b682-7810-4c25-a562-219a0e59d41d
+  parameters:
+  - name: title
+  body_hash: 28c102b22576291c0fc87263bc6767d3
+- name: Check book count
+  uid: 28238071-e786-476e-9a81-c009c472cc3d
+  parameters:
+  - name: count
+  body_hash: c226223e643aed7071043257ce415245
